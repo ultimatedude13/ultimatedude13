@@ -3,8 +3,8 @@
 > Developer building useful software and interactive experiences.
 
 [🌐 Portfolio](https://your-site.com)
-[💼 LinkedIn](https://linkedin.com/in/your-name)
-[📧 Contact me](mailto:you@example.com)
+[💼 LinkedIn](https://https://www.linkedin.com/in/eli-smidt-96358a439/)
+[📧 Contact me](mailto:elismidtnz@gmail.com)
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Project | Description | Links |
 |---|---|---|
-| velo os | A web application for managing tasks | [Demo](https://example.com) · [Code](https://github.com/you/project-one) |
-| velocity flight simulator | An API built with Node.js | [Code](https://github.com/you/project-two) |
+| velo os | a easy os for developers | [download](https://example.com) · [Code](https://github.com/ultimatedude13/project-one) |
+| velocity flight simulator | a high quality flight simulator for all ages and experince levels | [Code](https://github.com/ultimatedude13/project-two) |
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultimatedude13&show_icons=true&theme=tokyonight)
 
 ---
 
