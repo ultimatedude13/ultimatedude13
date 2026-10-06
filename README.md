@@ -2,7 +2,7 @@
 
 > Developer building useful software and interactive experiences.
 
-[🌐 Portfolio](https://your-site.com)
+[🌐 Portfolio](https://ultimatedude13.github.io)
 [💼 LinkedIn](https://https://www.linkedin.com/in/eli-smidt-96358a439/)
 [📧 Contact me](mailto:elismidtnz@gmail.com)
 
