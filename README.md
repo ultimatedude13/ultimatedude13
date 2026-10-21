@@ -3,7 +3,6 @@
 > Developer building useful software and interactive experiences.
 
 [🌐 Portfolio](https://ultimatedude13.github.io)
-[💼 LinkedIn](https://https://www.linkedin.com/in/eli-smidt-96358a439/)
 [📧 Contact me](mailto:elismidtnz@gmail.com)
 
 ---
@@ -12,8 +11,8 @@
 
 | Project | Description | Links |
 |---|---|---|
-| velo os | a easy os for developers | [download](https://example.com) · [Code](https://github.com/ultimatedude13/project-one) |
-| velocity flight simulator | a high quality flight simulator for all ages and experince levels | [Code](https://github.com/ultimatedude13/project-two) |
+| GEO-FS addons | Addons for GEO-FS including landing stats and realism addons. | [download the javascript file](https://example.com) · [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
+| velocity flight simulator | a high quality flight simulator for all ages and experince levels | [Code](https://github.com/ultimatedude13/velocity-flight-simulator) |
 
 ---
 
