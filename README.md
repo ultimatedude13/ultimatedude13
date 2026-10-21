@@ -11,8 +11,8 @@
 
 | Project | Description | Links |
 |---|---|---|
-| GEO-FS addons | Addons for GEO-FS including landing stats and realism addons. | [download the javascript file](https://example.com) · [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
-| velocity flight simulator | a high quality flight simulator for all ages and experince levels | [Code](https://github.com/ultimatedude13/velocity-flight-simulator) |
+| GEO-FS addons | Addons for GEO-FS including landing stats and realism addons. | [Download the javascript file](https://example.com) · [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
+| Velocity Flight Simulator | A high quality flight simulator for all ages and experience levels | [Code](https://github.com/ultimatedude13/velocity-flight-simulator) | [Play on the web](https://playvelocityfs.github.io) | [Download as app](https://playvelocityfs.github.io)
 
 ---
 
