@@ -10,10 +10,9 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Links |
-|---|---|---|
-| GEO-FS addons | Addons for GEO-FS including landing stats and realism addons. | [Download the javascript file](https://example.com) · [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
-| Velocity Flight Simulator | A high quality flight simulator for all ages and experience levels | [Code](https://github.com/ultimatedude13/velocity-flight-simulator) | [Play on the web](https://playvelocityfs.github.io) | [Download as app](https://playvelocityfs.github.io)
-
+| --- | --- | --- |
+| GeoFS Landing Stats | Landing statistics addon for GeoFS. | [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
+| Last Town Standing | Coming soon. | |
 ---
 
 ## 🛠️ Skills
