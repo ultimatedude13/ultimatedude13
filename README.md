@@ -12,7 +12,7 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | GeoFS Landing Stats | Landing statistics addon for GeoFS. | [Code](https://github.com/ultimatedude13/GEO-FS-addons) |
-| Last Town Standing | Coming soon. | |
+| Paaralax | Coming soon. | 
 ---
 
 ## 🛠️ Skills
